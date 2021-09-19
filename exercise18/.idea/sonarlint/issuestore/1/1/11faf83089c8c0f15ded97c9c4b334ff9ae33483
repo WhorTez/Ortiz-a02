@@ -1,0 +1,13 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§‘Òøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³ßÆºûÿÿÿÿ
+N
+java:S1117"8Rename "temp" which hides the field declared at line 19.(†Â‚
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‹“Ôşÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ÔÆÁ´
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(†²šáøÿÿÿÿ
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(å¯‘
+;
+java:S34578"%String contains no format specifiers.(¼¢ ¦
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(¼¢ ¦
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥Ä‚†ùÿÿÿÿ
