@@ -1,0 +1,9 @@
+
+k
+java:S3008"URename this field "WISalesTax" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞÈíƒ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¡œÈìùÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ïµèÕùÿÿÿÿ
+h	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÂ‡ùÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(Ôôî§
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(ÄüÎ¹
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßš½ùÿÿÿÿ
